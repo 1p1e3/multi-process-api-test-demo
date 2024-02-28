@@ -1,0 +1,14 @@
+# 此文件用于模拟用户表， 数据表示已注册的用户， 后续注册的用户数据也会被写入到此文件
+user10001:
+  account: user10001
+  password: '123456789'
+
+user1000:
+  account: user1000
+  password: '12345678'
+user10003:
+  account: user10003
+  password: '123456789'
+user12345678912345:
+  account: user12345678912345
+  password: '123456789123456789'
